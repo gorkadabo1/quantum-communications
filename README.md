@@ -56,7 +56,7 @@ quantum-communications/
 ├── src/
 │   └── quantum_channel.py              # QuantumCommunicationChannel class
 ├── docs/
-│   └── report.pdf                      # Detailed project report
+│   └── quantum_communications_report.pdf    # Detailed project report
 └── requirements.txt
 ```
 
